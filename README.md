@@ -21,6 +21,7 @@
 
 *Figure A of the blog: The performance comparison of autoregressive (AR) and masked diffusion models (Diffusion) when repeating on a limited portion of data. All models are trained on 96B total tokens (including repetition), varying the unique tokens from 0.5B to 96B. Diffusion models exploit the data better through more repetition on limited unique data. More unique tokens requires more repetition to see the crossover, where the high unique token runs postpone the crossover beyond our 96B token observation scope.*
 
+<br>
 
 # Citation
 ```
