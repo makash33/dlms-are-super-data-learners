@@ -3,7 +3,7 @@
 <!-- TITLE -->
 # **Diffusion Language Models are Super Data Learners**
 
-[![Static Badge](https://img.shields.io/badge/Blog-2025--08--10-darkcyan)](https://github.com/Psycoy/MixEval/tree/main/mix_eval/data)
+[![Static Badge](https://img.shields.io/badge/Blog-2025--08--09-darkcyan)](https://jinjieni.notion.site/Diffusion-Language-Models-are-Super-Data-Learners-239d8f03a866800ab196e49928c019ac)
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=tweet)](https://x.com/NiJinjie/status/1954177095435014533)
 </div>
 
